@@ -1,3 +1,5 @@
 Line 1 - Master.
 
-Linea 3 - Master.
+Line 2 - branch1.
+
+Line 3 - Master.
